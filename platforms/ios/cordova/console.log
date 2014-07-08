@@ -1,0 +1,72 @@
+2014-07-08 13:15:33.070 HelloCordova[9838:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-08 13:15:33.085 HelloCordova[9838:70b] Unlimited access to network resources
+2014-07-08 13:15:33.093 HelloCordova[9838:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-08 13:15:33.268 HelloCordova[9838:70b] Resetting plugins due to page load.
+2014-07-08 13:15:33.336 HelloCordova[9838:70b] Finished load of: file:///Users/abhilashdonepudi/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/920BB30C-8B22-4359-8ACA-0CB5BC009CE1/HelloCordova.app/www/index.html
+2014-07-08 13:26:46.274 HelloCordova[10014:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-08 13:26:46.289 HelloCordova[10014:70b] Unlimited access to network resources
+2014-07-08 13:26:46.298 HelloCordova[10014:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-08 13:26:46.712 HelloCordova[10014:70b] Resetting plugins due to page load.
+2014-07-08 13:26:46.845 HelloCordova[10014:70b] Finished load of: file:///Users/abhilashdonepudi/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/920BB30C-8B22-4359-8ACA-0CB5BC009CE1/HelloCordova.app/www/index.html
+2014-07-08 13:39:05.584 HelloCordova[10350:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-08 13:39:05.594 HelloCordova[10350:70b] Unlimited access to network resources
+2014-07-08 13:39:05.597 HelloCordova[10350:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-08 13:39:05.764 HelloCordova[10350:70b] Resetting plugins due to page load.
+2014-07-08 13:39:05.823 HelloCordova[10350:70b] Finished load of: file:///Users/abhilashdonepudi/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/920BB30C-8B22-4359-8ACA-0CB5BC009CE1/HelloCordova.app/www/index.html
+2014-07-08 13:40:59.629 HelloCordova[10429:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-08 13:40:59.638 HelloCordova[10429:70b] Unlimited access to network resources
+2014-07-08 13:40:59.642 HelloCordova[10429:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-08 13:40:59.712 HelloCordova[10429:70b] Resetting plugins due to page load.
+2014-07-08 13:40:59.754 HelloCordova[10429:70b] Finished load of: file:///Users/abhilashdonepudi/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/920BB30C-8B22-4359-8ACA-0CB5BC009CE1/HelloCordova.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-07-08 13:43:42.877 HelloCordova[10538:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-08 13:43:42.886 HelloCordova[10538:70b] Unlimited access to network resources
+2014-07-08 13:43:42.889 HelloCordova[10538:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-08 13:43:43.044 HelloCordova[10538:70b] Resetting plugins due to page load.
+2014-07-08 13:43:43.148 HelloCordova[10538:70b] Finished load of: file:///Users/abhilashdonepudi/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/920BB30C-8B22-4359-8ACA-0CB5BC009CE1/HelloCordova.app/www/index.html
+2014-07-08 13:43:47.027 HelloCordova[10538:70b] THREAD WARNING: ['CardIOPGPlugin'] took '37.472168' ms. Plugin should use a background thread.
+2014-07-08 13:43:47.786 HelloCordova[10538:70b] NSScanner: nil string argument
+2014-07-08 13:43:47.787 HelloCordova[10538:70b] NSScanner: nil string argument
+2014-07-08 13:43:58.775 HelloCordova[10538:70b] NSScanner: nil string argument
+2014-07-08 13:43:58.775 HelloCordova[10538:70b] NSScanner: nil string argument
+2014-07-08 13:46:22.997 HelloCordova[10538:70b] UITextField -webView called. This method is no longer supported with the new text architecture
+2014-07-08 13:46:35.575 HelloCordova[10538:70b] NSScanner: nil string argument
+2014-07-08 13:46:35.575 HelloCordova[10538:70b] NSScanner: nil string argument
+2014-07-08 13:48:17.748 HelloCordova[10538:70b] NSScanner: nil string argument
+2014-07-08 13:48:17.749 HelloCordova[10538:70b] NSScanner: nil string argument
+2014-07-08 13:48:23.137 HelloCordova[10538:70b] NSScanner: nil string argument
+2014-07-08 13:48:23.137 HelloCordova[10538:70b] NSScanner: nil string argument
+2014-07-08 13:49:01.603 HelloCordova[10538:70b] NSScanner: nil string argument
+2014-07-08 13:49:01.603 HelloCordova[10538:70b] NSScanner: nil string argument
+2014-07-08 13:52:54.960 HelloCordova[10538:70b] NSScanner: nil string argument
+2014-07-08 13:52:54.960 HelloCordova[10538:70b] NSScanner: nil string argument
