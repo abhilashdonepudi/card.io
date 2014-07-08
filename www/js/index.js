@@ -64,7 +64,7 @@ var app = {
             }
             scanBtn.onclick = function (e) {
                 window.plugins.card_io.scan(
-                    "107fd561f7984d63bd9f98649b3b2388",
+                    "Your_app_token",
                     {
                         "collect_expiry": true,
                         "collect_cvv": false,
